@@ -1,0 +1,1 @@
+Este proyecto necesita python 3.11
